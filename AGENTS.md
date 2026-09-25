@@ -1,3 +1,15 @@
+## Mandatory Engineering Protocol
+
+Before performing any engineering task, read and follow
+`docs/engineering/ENGINEERING_PROTOCOL.md`.
+
+This protocol governs repository verification, investigation,
+planning, implementation, testing, security review,
+pull requests and merging.
+
+It takes precedence over conflicting coding instructions.
+Never skip its applicable verification requirements.
+
 # Engineering Verification, Pull Request and Merge Workflow
 
 **Scope:** Apply these instructions to any coding task where applicable. Judge applicability per repository — small or narrow projects may not warrant every check — and scale verification to the size and risk of the change. Documentation-only or trivial changes receive proportionate verification.
