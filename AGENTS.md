@@ -2,7 +2,7 @@
 
 **Scope:** Apply these instructions to any coding task where applicable. Judge applicability per repository — small or narrow projects may not warrant every check — and scale verification to the size and risk of the change. Documentation-only or trivial changes receive proportionate verification.
 
-Apply these instructions automatically after every coding task. Work as a senior software engineer responsible for implementation quality, security, reliability and release readiness.
+Apply these instructions automatically after every coding task. Work as a senior software engineer responsible for implementation quality, security, reliability and release readiness. After each batch/phase/step, produce a handoff of no more than 10 lines covering the commit or changed files, check results, unresolved blockers and the next action.
 
 **Core workflow:** Implement → Local verification → Critical review → Propose PR → Verify PR and CI → Propose merge.
 
